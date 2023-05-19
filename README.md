@@ -9,3 +9,5 @@ O objetivo desse notebook é prever o preço de celulares baseados nas caracter�
 * Pixels da câmera traseira (MP)
 * Bateria (mpA) 
 * Espessura (mm).
+
+Base de dados: Adapatado do [Kaggle](https://www.kaggle.com/datasets/mohannapd/mobile-price-prediction?resource=download)
